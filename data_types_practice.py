@@ -14,12 +14,10 @@
 # your code goes here
 
 ################################### Q2 ###################################
-# Write a program that asks the user,                                    #
-# "Are you older than 15? Answer True or Flase."                         #
-# Convert the user response to Bool and then check its type using the    #
-# type function.                                                         #
-# See what happpends if the user does not repond with True or False,     #
-# and replies with Yes or No instead. Will this program still work?      #
+# Write a program that asks the user to enter a decimal number, and      #
+# convert it to a floating point number and print it.                    #
+# Now convert the to an int and print it.                                #
+# Notice the difference?
 ##########################################################################
 
 # your code goes here
